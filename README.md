@@ -59,3 +59,8 @@ This repository contains the dataset released with the submission of INLG 2016 p
 
 *coll.task.duration* - average duration of the task, sec
 
+## Citing the dataset:
+
+If you use or refer to the dataset, please cite [this paper](https://aclweb.org/anthology/W/W16/W16-6644.pdf):
+
+Jekaterina Novikova, Oliver Lemon, Verena Rieser (2016). Crowd-Sourcing NLG Data: Pictures Elicit Better Data, in *Proceedings of the 9th International Natural Language Generation Conference INLG'16*. Edinburgh, UK
